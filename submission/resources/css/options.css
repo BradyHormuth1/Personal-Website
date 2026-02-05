@@ -1,0 +1,11 @@
+.card-img-top {
+    height: 200px;      
+    object-fit: cover;
+    object-position: top;  
+}
+.project-img {
+    width: 350px;
+    height: 150px;
+    object-fit: cover;
+    object-position: 50% 25%; 
+}
